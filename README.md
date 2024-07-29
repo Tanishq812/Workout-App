@@ -29,7 +29,7 @@ This is a web application built with Angular for tracking workouts in health cha
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/health-challenge-tracker.git
+    git clone https://github.com/Tanishq812/Workout-App
     cd health-challenge-tracker
     ```
 
