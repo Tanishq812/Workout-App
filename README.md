@@ -9,6 +9,7 @@ This is a web application built with Angular for tracking workouts in health cha
 - Display user workout details in a paginated table
 - View detailed workout progress in a bar chart
 - Responsive design using Tailwind CSS
+- Click on the user th get the Bar chart
 
 ## Technologies Used
 
